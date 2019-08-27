@@ -45,3 +45,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
+//By Franky Wahyu
